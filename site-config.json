@@ -1,0 +1,23 @@
+{
+  "displayName": "Marc Choi",
+  "brand": "Korean Conversation with Marc",
+  "defaultLocale": "en",
+  "supportedLocales": ["en", "ko"],
+  "teachingLanguage": "ko",
+  "supportLanguages": ["en"],
+  "teacherStatus": "preparing",
+  "bookingStatus": "unavailable",
+  "italkiProfileUrl": null,
+  "bookingUrl": null,
+  "video": {
+    "src": "./assets/video/marc_choi_intro_16x9.mp4",
+    "poster": "./assets/images/marc-choi-intro-poster.png",
+    "transcript": "./assets/transcripts/marc-choi-intro.txt",
+    "captionSource": "./assets/captions/marc-choi-intro.srt",
+    "caption": "./assets/captions/marc-choi-intro.vtt",
+    "kind": "ai-narrated-still-preview",
+    "width": 1280,
+    "height": 720,
+    "durationSeconds": 75.666667
+  }
+}
